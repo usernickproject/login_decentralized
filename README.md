@@ -3,7 +3,7 @@
 ## cdn import
 
 ```
-<script src="https://www.gstatic.com/firebasejs/6.2.4/firebase-database.js"></script>
+<script src="https://raw.githubusercontent.com/usernickproject/login_decentralized/main/usernick_v1.js"></script>
 ```
 ## JS 
 ```

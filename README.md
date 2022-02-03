@@ -3,7 +3,7 @@
 ## cdn import
 
 ```
-<script src="https://cdn.jsdelivr.net/npm/usrnk@1.0.1/src/index.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/usrnk@1.0.6/src/index.min.js"></script>
 ```
 ## JS 
 ```
